@@ -1,3 +1,6 @@
+## 機能
+- [x] [メモの検索API](https://help.docbase.io/posts/92984)
+- [x] [メモの詳細取得API](https://help.docbase.io/posts/97204)
 
 ## Install
 
@@ -25,7 +28,7 @@
         "https://github.com/pj8/docbase-mcp-server"
       ],
       "env": {
-        "DOCBASE_API_TOKEN": "****", // Get here https://your-domain-here.docbase.io/settings/tokens/new
+        "DOCBASE_API_TOKEN": "****", // Get token here https://your-domain-here.docbase.io/settings/tokens/new
         "DOCBASE_DOMAIN": "your-domain-here" // https://your-domain-here.docbase.io
       },
       "transportType": "stdio"
