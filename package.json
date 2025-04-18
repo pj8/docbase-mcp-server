@@ -4,6 +4,9 @@
   "description": "Docbase MCP Server",
   "main": "build/index.js",
   "type": "module",
+  "bin": {
+    "docbase-mcp-server": "build/index.js"
+  },
   "scripts": {
     "build": "tsc",
     "start": "node build/index.js"
