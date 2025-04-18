@@ -4,9 +4,10 @@
 
 ## Install
 
-- VSCode > CLINE > 設定画面 > Configure MCP Servers
+- VSCode > CLINE > MCP Servers 設定画面 > Configure MCP Servers
 
-<img width="1032" alt="Screenshot 2025-04-18 at 10 43 30" src="https://github.com/user-attachments/assets/02f0a4af-94af-4864-9f66-a5c1e92de1b6" />
+<img width="1064" alt="Screenshot 2025-04-18 at 11 56 28" src="https://github.com/user-attachments/assets/90e3f2ed-3eb8-46a0-bdd4-0746a910bf4b" />
+
 
 - 下記のようにdocbase-mcp-serverの設定を追加します。
   - DOCBASE_API_TOKENは、<https://your-domain-here.docbase.io/settings/tokens/new> で取得します
