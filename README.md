@@ -1,3 +1,6 @@
+## Requirements
+- Nodejs 20以上, NPM 10以上
+
 ## 機能
 - [x] [メモの検索API](https://help.docbase.io/posts/92984)
 - [x] [メモの詳細取得API](https://help.docbase.io/posts/97204)
