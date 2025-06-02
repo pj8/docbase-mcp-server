@@ -1,3 +1,7 @@
+[公式のMCP Serverが発表されましたのでそちらを使ってください](https://www.npmjs.com/package/@krayinc/docbase-mcp-server)
+
+----
+
 ## Requirements
 - Nodejs 20以上, NPM 10以上
 
